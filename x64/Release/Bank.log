@@ -1,0 +1,12 @@
+﻿  Account.cpp
+  Admin.cpp
+  Auth.cpp
+  Client.cpp
+  Database.cpp
+  DepLoan.cpp
+  Functions.cpp
+  MainForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Account.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Bank.vcxproj -> D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Release\Bank.exe

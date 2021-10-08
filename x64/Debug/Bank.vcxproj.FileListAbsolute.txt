@@ -1,0 +1,14 @@
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.vcxprojAssemblyReference.cache
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormAccountActions.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormAdmin.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormAuth.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormClient.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormDepLoanInfo.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormGetLoan.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormNewAccount.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormOpenDeposit.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.FormRegister.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.MainForm.resources
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.vcxproj.GenerateResource.cache
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.exe
+D:\- BSUIR -\3 семестр\КПрог [Курсовая]\Bank\x64\Debug\Bank.pdb
