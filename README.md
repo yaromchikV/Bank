@@ -1,4 +1,4 @@
-# The program of banking service :: Course project (3rd semester)
+# The program of banking service
 
 * Programming language – C++/CLI
 * The application type is windowed
